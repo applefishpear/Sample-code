@@ -1,4 +1,4 @@
-// This program is not fully optimised and completed but I wanted to submit something
+# This program is not fully optimised and completed but I wanted to submit something
 
 import sys
 import re
